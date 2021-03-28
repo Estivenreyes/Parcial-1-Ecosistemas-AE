@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="posXx" type="id" />
+    <item name="posYx" type="id" />
+    <item name="remember" type="id" />
+</resources>
